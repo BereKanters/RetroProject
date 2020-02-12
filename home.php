@@ -11,7 +11,7 @@
     <nav id="navbar">
         <div class="menu">
             <a href="index.php">Home</a>
-            <a href="">Over Mij</a>
+            <a href="">Over Migkhkgkhkgj</a>
             <a href="">Opleidingen</a>
             <a href="">Contact Me</a>
         </div>
