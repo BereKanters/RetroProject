@@ -138,7 +138,7 @@
 </style>
 <div class="centered">
     <h1 class="chrome">PORTFOLIO</h1>
-    <h3 class="dreams">Bere</h3>
+    <h3 class="dreams">BereLOLOL</h3>
 </div>
 <body>
     <nav id="navbar">
